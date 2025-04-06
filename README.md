@@ -16,7 +16,7 @@
 ## Запуск
 
 Открыть `Otmazka.xcodeproj` в Xcode и нажать ▶️
-/Users/dakosy/Downloads/IMG_5579.MP4
+https://github.com/user-attachments/assets/b9d8a677-c211-4480-bf07-066486b2e6c3
 
 ## Контакты
 
